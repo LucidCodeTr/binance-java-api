@@ -60,4 +60,13 @@
     </plugins>
   </build>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub LucidCode Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/LucidCodeTr/binance-java-api</url>
+    </repository>
+  </distributionManagement>
+
+
 </project>
